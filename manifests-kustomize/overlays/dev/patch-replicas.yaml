@@ -3,4 +3,4 @@ kind: Deployment
 metadata:
   name: hello   # referencia el nombre base
 spec:
-  replicas: 2
+  replicas: 3
